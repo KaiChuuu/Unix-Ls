@@ -11,7 +11,7 @@ Ls command is implemented with the following options:
 * -l 
 * -R
   
-# Samples of output from the ls program
+### Samples of output from the ls program
 
 # UnixLs Output
 <p align="left">
@@ -21,9 +21,4 @@ Ls command is implemented with the following options:
   </a>
 </p>
 
-# Actual ls Output
-<p align="right">
-  <a href="https://github.com/RedDogClifford/Unix-Ls/">
-    <img src="/Sample_Images/sample_output_1_part2.jpg" alt="sample_1" width="300" height="800">
-  </a>
-</p>
+
