@@ -15,6 +15,6 @@ Ls command is implemented with the following options:
 
 <p align="center">
   <a href="https://github.com/RedDogClifford/Unix-Ls/">
-    <img src="/Sample_Images/sample_output_1_part1.jpg" alt="sample_1" width="600" height="800">
+    <img src="/Sample_Images/sample_output_1_part1.jpg" alt="sample_1" width="300" height="800">
   </a>
 </p>
