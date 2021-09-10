@@ -14,7 +14,7 @@ Ls command is implemented with the following options:
 # Samples of output from the ls program
 
 <p align="center">
-  <a href="https://github.com/RedDogClifford/Unix-Ls/tree/main/Sample_Images/">
+  <a href="https://github.com/RedDogClifford/Unix-Ls/blob/main/Sample_Images/">
     <img src="sample_output_1_part1.jpg" alt="Logo" width="600" height="1600">
   </a>
 </p>
