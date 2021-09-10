@@ -27,8 +27,8 @@ UnixLs Output compared to actual ls command
 * Example 2
 <p align="left">
   <a href="https://github.com/RedDogClifford/Unix-Ls/">
-    <img src="/Sample_Images/sample_output_2.jpg" alt="sample_1" width="450" height="450">
-    <img src="/Sample_Images/sample_output_2.jpg" alt="sample_1" width="450" height="450">
+    <img src="/Sample_Images/sample_output_2.jpg" alt="sample_1" width="400" height="300">
+    <img src="/Sample_Images/sample_output_2.jpg" alt="sample_1" width="400" height="500">
   </a>
 </p>
 
