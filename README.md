@@ -11,3 +11,10 @@ Ls command is implemented with the following options:
 * -l 
 * -R
   
+# Samples of output from the ls program
+
+<p align="center">
+  <a href="https://github.com/RedDogClifford/Unix-Ls/Sample_Images/">
+    <img src="sample_output_1_part1.jpg" alt="Logo" width="800" height="400">
+  </a>
+</p>
