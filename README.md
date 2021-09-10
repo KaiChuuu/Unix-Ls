@@ -13,7 +13,7 @@ Ls command is implemented with the following options:
   
 ### Samples of output from the ls program
 
-# UnixLs Output
+UnixLs Output 
 <p align="left">
   <a href="https://github.com/RedDogClifford/Unix-Ls/">
     <img src="/Sample_Images/sample_output_1_part1.jpg" alt="sample_1" width="300" height="800">
